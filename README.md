@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I graduated from Adnan Menderes University with a degree in Electrical and Electronics Engineering. I am<br> determined to pursue a career in full-stack web development and have specialized in this technology with<br> C#, .Net/.Net Core, WPF, XAML, JavaScript, HTML, CSS, and Node.js. I have gained competence in both<br> frontend and backend development of web and windows applications and have the ability to develop these<br> dimensions efficiently. I am confident in presenting innovations in projects, and I am developing myself in this<br> field. I aim to plan critical workflows and team collaboration skills effectively and efficiently in software<br> development processes. My goal is to produce creative and effective applications in the technology sector.<br><br><br>colakandac@gmail.com</h2>
+<h2 align="left">I graduated from Adnan Menderes University with a degree in Electrical and Electronics Engineering. I am determined to pursue a career in full-stack web development and have specialized in this technology with C#, .Net/.Net Core, WPF, XAML, JavaScript, HTML, CSS, and Node.js. I have gained competence in both frontend and backend development of web and windows applications and have the ability to develop these dimensions efficiently. I am confident in presenting innovations in projects, and I am developing myself in this field. I aim to plan critical workflows and team collaboration skills effectively and efficiently in software development processes. My goal is to produce creative and effective applications in the technology sector.<br><br><br>colakandac@gmail.com</h2>
 
 ###
 
