@@ -6,6 +6,25 @@
 
 ###
 
+<h1 align="left">Connect With Me!</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/andac-colak/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="colakandac@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Languages and Tools:</p>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -40,14 +59,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andac-colak/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andaccolak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
 
 ###
