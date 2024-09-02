@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=13F711&background=16FF9F00&center=true&vCenter=true&width=440&height=55&lines=I+am+Anda%C3%A7+%C3%87olak+%F0%9F%92%BB;.Net+Developer;CQRS;C%23;WPF+Developer;+JavaScript;jQuery;+Selenium+Test;Database+Management)](https://git.io/typing-svg)
 
-<h1 align="left">Hey 👋</h1>
-
 ###
 
 <h2 align="left">I graduated from Adnan Menderes University with a degree in Electrical and Electronics Engineering. I am<br> determined to pursue a career in full-stack web development and have specialized in this technology with<br> C#, .Net/.Net Core, WPF, XAML, JavaScript, HTML, CSS, and Node.js. I have gained competence in both<br> frontend and backend development of web and windows applications and have the ability to develop these<br> dimensions efficiently. I am confident in presenting innovations in projects, and I am developing myself in this<br> field. I aim to plan critical workflows and team collaboration skills effectively and efficiently in software<br> development processes. My goal is to produce creative and effective applications in the technology sector.<br><br><br>colakandac@gmail.com</h2>
