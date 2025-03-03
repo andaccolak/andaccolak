@@ -2,7 +2,21 @@
 
 ###
 
-<h2 align="left">I graduated from Adnan Menderes University with a degree in Electrical and Electronics Engineering. I am determined to pursue a career in full-stack web development and have specialized in this technology with C#, .Net/.Net Core, WPF, XAML, JavaScript, HTML, CSS, and Node.js. I have gained competence in both frontend and backend development of web and windows applications and have the ability to develop these dimensions efficiently. I am confident in presenting innovations in projects, and I am developing myself in this field. I aim to plan critical workflows and team collaboration skills effectively and efficiently in software development processes. My goal is to produce creative and effective applications in the technology sector.<br><br><br>colakandac@gmail.com</h2>
+<h2 align="left">I am a full-stack software developer with 3+ years of experience. I have worked on corporate and freelance projects, specializing in .NET/.NET Core, C#, WPF, JavaScript, React.js, and TypeScript. My expertise lies in RESTful API integrations, microservice architecture, and scalable system development.
+
+Skills:
+
+Backend: .NET Core, C#, ASP.NET 8, CQRS, Entity Framework
+Frontend: React.js, TypeScript, JavaScript, WPF, XAML
+Databases: SQL Server, PostgreSQL
+Tools & Technologies: Git, Docker, Selenium, Plesk Panel
+Development Approaches: Test-Driven Development (TDD), Agile & Scrum
+Work Highlights:
+
+Developed modular and scalable e-commerce platforms using ASP.NET 8 + CQRS.
+Built real-time data processing applications with React.js & TypeScript.
+Improved code quality and significantly reduced bug rates by applying TDD and Selenium automated testing.
+Enhanced the performance and scalability of large-scale systems using microservice architecture..<br><br><br>colakandac@gmail.com</h2>
 
 ###
 
